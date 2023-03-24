@@ -10,13 +10,14 @@ body {
 }
 #menu img {
     height: 55px;
-    margin-left:30px ;
+    margin-left:20px ;
 }
 .linkMenu {
     color: aliceblue;
     font-size: 2em;
     margin-left: 20px;
     margin-right: 20px;
+    
 }
 .parte1 {
     width: 50%;
@@ -34,7 +35,4 @@ body {
     font-family:'Times New Roman', Times, serif;
     color: azure;
 }
-.menu img{
-    display: flex;
-    justify-content: flex-start;
-}
+
